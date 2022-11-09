@@ -1,3 +1,3 @@
-#GUJ2F8
+#GIK2F8
 
 Här lagras kod för kursen GIK2F8. 
